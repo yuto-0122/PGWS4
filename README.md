@@ -3,6 +3,6 @@
 
 # 使い方
 
-- 本リポジトリをforkしてください。
+- 本リポジトリ(tpu-game-2022/PGWS4)をforkしてください。
 - fork先のリポジトリを更新してください
-- 完成したら本リポジトリ(tpu-game-2022/PGWS4)のmainブランチにpull requestを投げてください
+- 完成したら本リポジトリのmainブランチにpull requestを投げてください
